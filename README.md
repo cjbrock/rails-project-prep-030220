@@ -72,7 +72,7 @@ same as this:
 
 ## Corinna builds (most of) an application
 
- - I believe this is only missing Omniauth. Bryant built Omniauth with Devise last week. We can do Omniaut with Native Rails next week.
+ - I believe this is only missing Omniauth. Bryant built Omniauth with Devise last week. We can do Omniauth with Native Rails next week.
  
 [Part 1 Video](https://youtu.be/N48aA2YFIos)
 [Part 2 Video](https://youtu.be/2Ozo4lcEuho)
